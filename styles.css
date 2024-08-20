@@ -1,0 +1,20 @@
+body {
+    color: white;
+    background: black;
+    margin: 20px;
+}
+
+header {
+    border-bottom: solid 4px white;
+    padding: 15px;
+    font-size: 80px;
+    color: rgb(209, 5, 5);
+    display: flex;
+    justify-content: center;}
+
+    section {
+        padding-bottom: 40;
+        padding-bottom: 40;
+        direction: flex;
+
+    }
